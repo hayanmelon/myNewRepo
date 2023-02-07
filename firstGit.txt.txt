@@ -1,2 +1,3 @@
 hi
 thisis first git rep
+버그수정
