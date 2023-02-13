@@ -1,4 +1,5 @@
 hi
 thisis first git rep
 버그수정
-마스터
+
+마스터디벨로퍼2
