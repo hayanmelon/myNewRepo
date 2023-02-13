@@ -1,3 +1,4 @@
 hi
 thisis first git rep
 버그수정
+디벨로퍼2
